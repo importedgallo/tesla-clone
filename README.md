@@ -4,6 +4,6 @@
 ### `yarn start` to run on localhost 3000
 
 ### To-do:
-- [] add scrollbar to burgernav 
-- [] add states to the fade in and out of buttons 
-- [] opacity of the burgernav while text remains opaque 
+- [ ] add scrollbar to burgernav 
+- [ ] add states to the fade in and out of buttons 
+- [ ] opacity of the burgernav while text remains opaque 
