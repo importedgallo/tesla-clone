@@ -17,15 +17,16 @@ function Section({
           <p> {description} </p>
         </Fade>
       </ItemText>
-      <Fade bottom>
         <Buttons>
+      <Fade bottom>
           <ButtonGroup>
             <LeftButton>{leftBtnText}</LeftButton>
             {rightBtnText && <RightButton>{rightBtnText}</RightButton>}
           </ButtonGroup>
+      </Fade>
+
           <DownArrow src="/images/down-arrow.svg"></DownArrow>
         </Buttons>
-      </Fade>
     </Wrap>
   );
 }
