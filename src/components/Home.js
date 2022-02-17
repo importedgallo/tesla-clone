@@ -26,7 +26,6 @@ function Home() {
         leftBtnText="Custom Order"
         rightBtnText="Existing Inventory"
       />
-
       <Section
         title="Solar Panels"
         description="Lowest Cost Solar Panels in America"
@@ -34,7 +33,6 @@ function Home() {
         leftBtnText="Order Now"
         rightBtnText="Learn More"
       />
-
       <Section
         title="Solar Roof"
         description="Solar Roof"
@@ -42,7 +40,6 @@ function Home() {
         leftBtnText="Order Now"
         rightBtnText="Learn More"
       />
-
       <Section
         title="Accessories"
         description=""
