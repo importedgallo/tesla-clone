@@ -47,12 +47,6 @@ function Header() {
         <li><a href="#">Commercial Energy</a></li>
         <li><a href="#">Utilities</a></li>
         <li><a href="#">Charging</a></li>
-        <li><a href="#">Find Us</a></li>
-        <li><a href="#">Support</a></li>
-        <li><a href="#">Investor Relations</a></li>
-        <li><a href="#">Shop</a></li>
-        <li><a href="#">Account</a></li>
-        <li><a href="#">More</a></li>
       </BurgerNav>
     </Container>
   );
